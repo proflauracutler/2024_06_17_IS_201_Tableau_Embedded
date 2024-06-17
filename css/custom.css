@@ -1,0 +1,15 @@
+.post-preview a{
+    color:red;
+}
+
+#mainNav{
+    position:fixed;
+}
+
+#mainNav .navbar-brand{
+    font-style:italic;
+}
+
+.bluefont{
+    color:cornflowerblue;
+}
